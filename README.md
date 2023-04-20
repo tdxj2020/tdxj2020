@@ -1,6 +1,6 @@
 ### Hello there! 👋
 
-I am Justin, a Business & CS Undergraduate at Nanyang Technological University, Singapore.
+I am Justin, a Business & CS Undergraduate at Nanyang Technological University, Singapore. <br>
 Ich heiße Justin. Ich studiere BWL und Informatik, und lerne seit einem Jahr Deutsch an der NTU in Singapur.  
 
 ---
