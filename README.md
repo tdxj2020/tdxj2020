@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello there! 👋
+
+I am Justin, a Business & CS Undergraduate at Nanyang Technological University, Singapore.
 
 <!--
 **tdxj2020/tdxj2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
