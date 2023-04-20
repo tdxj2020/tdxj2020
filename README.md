@@ -9,7 +9,7 @@ Ich heiße Justin. Ich studiere BWL und Informatik, und lerne seit einem Jahr De
 <b>Human Languages:</b> Native English, Mandarin Chinese, some German (~B1.1), Japanese (JLPT N3), Korean (~Lvl. 2)  <br>
 
 - 🔭 I hope to have fun with mobile app development/ play around with those frameworks during the summer... :]
-- 🌱 I hope to learn/work with React/ web development as well... :<
+- 🌱 I hope to learn/work with React/ web development as well... :< (I haven't had much time to experiment)
 
 <!--
 **tdxj2020/tdxj2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
