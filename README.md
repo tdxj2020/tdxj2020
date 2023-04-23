@@ -6,7 +6,7 @@ Ich heiße Justin. Ich studiere BWL und Informatik, und lerne seit einem Jahr De
 
 ---
 <b>Languages:</b> Python, C/C++, Java, R, SQL; some HTML, CSS, JS (Hoping to work with full-stack dev. soon) <br>
-<b>Human Languages:</b> Native English, Mandarin Chinese, some German (~B1.1), Japanese (JLPT N3), Korean (~Lvl. 2)  <br>
+<b>Human Languages:</b> Native English, Mandarin Chinese, some German (~B1.1), Japanese (JLPT N3), Korean (~TOPIK Lvl. 2)  <br>
 
 - 🔭 I hope to have fun with mobile app development/ play around with those frameworks during the summer... :]
 - 🌱 I hope to learn/work with React/ web development as well... :< (I haven't had much time to experiment)
